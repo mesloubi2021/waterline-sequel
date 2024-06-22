@@ -10,14 +10,14 @@
     "url": "git://github.com/postmanlabs/postman-waterline-sequel.git"
   },
   "dependencies": {
-    "lodash": "~3.10.0"
+    "lodash": "~4.17.21"
   },
   "devDependencies": {
     "async": "^0.9.0",
     "chai": "^2.1.1",
     "jpath": "^0.0.20",
     "mocha": "^2.2.1",
-    "npm": "^2.7.4",
+    "npm": "^10.8.1",
     "sails-mysql": "git://github.com/balderdashy/sails-mysql",
     "sails-postgresql": "git://github.com/balderdashy/sails-postgresql",
     "should": "^5.2.0",
